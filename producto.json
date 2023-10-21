@@ -1,0 +1,9 @@
+{
+  "titulo": "noche estrellada",
+  "categoria": "tex",
+  "precio": {
+    "bajo": 12,
+    "alto": 30
+  },
+  "producto": 10
+}
